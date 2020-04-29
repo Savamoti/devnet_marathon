@@ -32,3 +32,8 @@ R2          Cisco 7206VXR, 6-slot chassis  12.4(24)T5     PE               R2:: 
 R3          Cisco 7206VXR, 6-slot chassis  12.4(24)T5     PE               R3:: CDP is ON, 3 peers  Clock is Sync
 ```
 Подробные логи хранятся в файле: `devnet_marathon_day1.log`
+
+## Топология
+Лабу собирал в GNS3.
+
+![Topology](https://github.com/Savamoti/devnet_marathon/blob/master/topology.png)
