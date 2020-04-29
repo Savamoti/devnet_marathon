@@ -1,0 +1,23 @@
+{
+    "10.10.10.1": {
+        "hostname": "R1",
+        "username": "R1",
+        "password": "R1",
+        "secret": "akunamatata1",
+        "device_type": "cisco_ios"
+    },
+    "10.10.10.2": {
+        "hostname": "R2",
+        "username": "R2",
+        "password": "R2",
+        "secret": "akunamatata1",
+        "device_type": "cisco_ios"
+    },
+    "10.10.10.3": {
+        "hostname": "R3",
+        "username": "R3",
+        "password": "R3",
+        "secret": "akunamatata1",
+        "device_type": "cisco_ios"
+    }
+}

@@ -1,0 +1,25 @@
+2020-04-29 11:43:35,755 | PID: 4698 | INFO~: Working on - [10.10.10.1]
+2020-04-29 11:43:35,756 | PID: 4699 | INFO~: connection to device 10.10.10.1
+2020-04-29 11:43:35,756 | PID: 4698 | INFO~: Working on - [10.10.10.2]
+2020-04-29 11:43:35,757 | PID: 4698 | INFO~: Working on - [10.10.10.3]
+2020-04-29 11:43:35,757 | PID: 4700 | INFO~: connection to device 10.10.10.2
+2020-04-29 11:43:35,758 | PID: 4701 | INFO~: connection to device 10.10.10.3
+2020-04-29 11:43:35,775 | PID: 4701 | INFO~: Connected (version 1.99, client Cisco-1.25)
+2020-04-29 11:43:35,777 | PID: 4699 | INFO~: Connected (version 1.99, client Cisco-1.25)
+2020-04-29 11:43:35,778 | PID: 4700 | INFO~: Connected (version 1.99, client Cisco-1.25)
+2020-04-29 11:43:36,135 | PID: 4700 | INFO~: Authentication (password) successful!
+2020-04-29 11:43:36,140 | PID: 4701 | INFO~: Authentication (password) successful!
+2020-04-29 11:43:36,319 | PID: 4699 | INFO~: Authentication (password) successful!
+2020-04-29 11:43:41,844 | PID: 4701 | INFO~: Configuration from [R3] backed up in [/home/gns3/devnet_marathon/backups/R3_29_04_2020T11_43_41]
+2020-04-29 11:43:41,936 | PID: 4700 | INFO~: Configuration from [R2] backed up in [/home/gns3/devnet_marathon/backups/R2_29_04_2020T11_43_41]
+2020-04-29 11:43:42,117 | PID: 4699 | INFO~: Configuration from [R1] backed up in [/home/gns3/devnet_marathon/backups/R1_29_04_2020T11_43_42]
+2020-04-29 11:43:46,237 | PID: 4701 | INFO~: R3:: Set [clock timezone GMT+0 0]
+2020-04-29 11:43:46,331 | PID: 4700 | INFO~: R2:: Set [clock timezone GMT+0 0]
+2020-04-29 11:43:46,501 | PID: 4699 | INFO~: R1:: Set [clock timezone GMT+0 0]
+2020-04-29 11:43:47,050 | PID: 4701 | INFO~: R3:: Set [ntp server 10.10.10.254]
+2020-04-29 11:43:47,143 | PID: 4700 | INFO~: R2:: Set [ntp server 10.10.10.254]
+2020-04-29 11:43:47,313 | PID: 4699 | INFO~: R1:: Set [ntp server 10.10.10.254]
+2020-04-29 11:43:48,167 | PID: 4701 | INFO~: R3:: NTP-server: [10.10.10.254] available.
+2020-04-29 11:43:48,261 | PID: 4700 | INFO~: R2:: NTP-server: [10.10.10.254] available.
+2020-04-29 11:43:48,431 | PID: 4699 | INFO~: R1:: NTP-server: [10.10.10.254] available.
+2020-04-29 11:43:50,371 | PID: 4698 | INFO~: All devices in inventory.json processed.
